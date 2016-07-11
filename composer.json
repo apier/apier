@@ -1,0 +1,13 @@
+{
+    "require": {
+        "phpunit/phpunit": "^5.4"
+    },
+    "autoload": {
+        "classmap": [
+            "tests/"
+        ],
+        "psr-4": {
+            "Apier\\": "src/"
+        }
+    }
+}
