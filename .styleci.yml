@@ -1,0 +1,9 @@
+preset: recommended
+
+linting: true
+
+finder:
+  path:
+    - "src"
+  name:
+    - "*.php"
