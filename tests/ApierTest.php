@@ -1,7 +1,7 @@
 <?php
 
 
-class ApierTest extends \PHPUnit\Framework\TestCase
+class ApierTest extends PHPUnit_Framework_TestCase
 {
     public function testVersion()
     {
